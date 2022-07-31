@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehmediargjend
 - 👀 Interested in art & design
 - 🧑‍💻 Founder @ Refine
-– 🖥 Visual Artist & Digital Marketing Specialist @ Comodita Home in North Macedonia
+- 🖥 Visual Artist & Digital Marketing Specialist @ Comodita Home in North Macedonia
 - 🌱 Currently studying Computer Sciences @ SEEU Skopje
 
 <!---
